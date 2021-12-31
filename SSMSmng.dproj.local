@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021.07.04 21:39:15.906.pas,C:\Users\bilov\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng.pas</Transaction>
+    <Transaction>2021.07.04 21:39:15.906.dfm,C:\Users\bilov\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng.dfm</Transaction>
+    <Transaction>2021.07.04 21:39:58.220.pas,C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng.pas=</Transaction>
+    <Transaction>2021.07.04 21:39:58.220.dfm,C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng.dfm=</Transaction>
+    <Transaction>2021.07.04 21:40:55.730.pas,C:\Users\bilov\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\Unit2.pas</Transaction>
+    <Transaction>2021.07.04 21:40:55.730.dfm,C:\Users\bilov\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\Unit2.dfm</Transaction>
+    <Transaction>2021.07.04 21:41:10.711.dproj,C:\Users\bilov\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng2010.dproj</Transaction>
+    <Transaction>2021.07.04 21:41:25.600.dproj,C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng2010.dproj=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\SSMSmng.dproj</Transaction>
+    <Transaction>2021.07.04 21:42:22.474.pas,C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\Unit2.pas=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\EWMain.pas</Transaction>
+    <Transaction>2021.07.04 21:42:22.474.dfm,C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\Unit2.dfm=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\EWMain.dfm</Transaction>
+    <Transaction>2021.07.04 21:43:38.492.pas,C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\Unit1.pas=C:\Users\bilov\Documents\Embarcadero\Studio\Projects\SSMSmng\SSMSmng2010\uMyTh.pas</Transaction>
+  </Transactions>
+</BorlandProject>
